@@ -1,5 +1,11 @@
 package strategy;
 
+/**
+ * @author math012
+ *
+ * O padrão Strategy visa simplificar a variação de algoritmos para a resolução de um mesmo problema.
+ */
+
 public class Main {
     public static void main(String[] args) {
 
